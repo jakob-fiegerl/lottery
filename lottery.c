@@ -10,7 +10,7 @@ int main(int argc, char** argv)
 {
     if (argc != 7)
     {
-        fprintf(stderr, "Benutzung: %s power_ball (5 white balls)\n", argv[0]);
+        fprintf(stderr, "Usage: %s power_ball (5 white balls)\n", argv[0]);
         return -1;
     }
 
@@ -28,3 +28,5 @@ int main(int argc, char** argv)
 
     return 0;
 }
+
+#asjdkaslh
